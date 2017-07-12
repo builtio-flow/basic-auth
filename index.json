@@ -1,0 +1,10 @@
+{
+  "name": "basic",
+  "description": "sample app implementing basic auth",
+  "triggers": [],
+  "lookups": [],
+  "actions": [],
+  "version": 1,
+  "auth_type": "basic",
+  "docs_link": "http://docs.example.com"
+}
