@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kailashyogeshwar85/minimal.git"
+    "url": "git+https://github.com/builtio-flow/cli-basic-auth.git"
   },
   "keywords": [
     "flow-cli",
@@ -21,7 +21,7 @@
   "author": "Kailash Yogeshwar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kailashyogeshwar85/minimal/issues"
+    "url": "https://github.com/builtio-flow/cli-basic-auth/issues"
   },
-  "homepage": "https://github.com/kailashyogeshwar85/minimal#readme"
+  "homepage": "https://github.com/builtio-flow/cli-basic-auth#readme"
 }
